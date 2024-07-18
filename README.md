@@ -25,5 +25,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/YOUR-USERNAME/Conways-Game-of-life.git
    cd Conways-Game-of-life
 
-```markdown
-![Game of Life](https://github.com/xtsebas/Conways-Game-of-life/gifgame.gif)
+### Gif of the game
+![gifgame](https://github.com/user-attachments/assets/e4ef3983-5fac-4af8-98c1-6c44c2ee3018)
+
