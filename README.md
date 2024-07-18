@@ -24,3 +24,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    git clone https://github.com/YOUR-USERNAME/Conways-Game-of-life.git
    cd Conways-Game-of-life
+
+```markdown
+![Game of Life](https://github.com/xtsebas/Conways-Game-of-life/gifgame.gif)
